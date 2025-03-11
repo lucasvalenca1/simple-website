@@ -1,11 +1,5 @@
 # Laravel Project
-
-
-  
-    
-  
-
-
+<p align="center"> <a href="https://laravel.com" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" width="100" alt="Laravel Logo"> </a> </p>
 ---
 
 ## About This Project
